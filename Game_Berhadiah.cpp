@@ -14,7 +14,7 @@ void cetakJudul(string judul){
 
 int main() {
     srand(time(0));
-    string hadiah[3] = {"(jam tangan)", "(emas 10g)", "(sprei)"};
+    string hadiah[4] = {"(jam tangan)", "(emas 10g)", "(sprei)","(zonk)"};
     
     int jawaban, konfirmasi;
     
