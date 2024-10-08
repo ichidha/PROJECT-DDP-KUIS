@@ -2,4 +2,4 @@
 Anggota :
 1. Muhamad Arif (2417051045)
 2. Nur Ramadhani (2417051067)
-3. Rahmad Veri Apriansah (24170510)
+3. Rahmad Veri Apriansah (2417051036)
