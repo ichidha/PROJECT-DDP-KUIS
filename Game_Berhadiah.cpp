@@ -25,7 +25,7 @@ int main() {
     cout << endl;
     string nama;
     cout << "OWO: Perkenalkan saya OWO, Saya akan membimbing anda pada game kali ini\n";
-    cout << "OWO: Halo peserta siapkah namamu? "; cin >> nama;
+    cout << "OWO: Halo peserta siapakah namamu? "; cin >> nama;
     cout << "OWO: Halo tuan " << nama << ", terimakasih telah hadir untuk mengikuti game kali ini.\n";
     cout << "OWO: Untuk mempersingkat waktu mari kita MULAI......!!!\n";
 
